@@ -1,0 +1,20 @@
+Index: hello.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- hello.php	(date 1519804510000)
++++ hello.php	(date 1519804510000)
+@@ -0,0 +1,1 @@
++hello
+\ No newline at end of file
+Index: model.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- model.php	(date 1519804476000)
++++ model.php	(date 1519801721000)
+@@ -1,1 +1,2 @@
+ this is from child but need to merge
++This should merge
