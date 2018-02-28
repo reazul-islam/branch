@@ -1,1 +1,1 @@
-Hi, thi is new controller from child
+changed in child this controller
